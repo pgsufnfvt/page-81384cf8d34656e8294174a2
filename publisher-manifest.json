@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "d23fadb945f548bdb0a8bc4e",
+  "owner": "pgsufnfvt",
+  "repo": "page-81384cf8d34656e8294174a2",
+  "title": "MIMEMI",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "81384cf8d34656e8294174a2",
+      "a": "MIMEMI",
+      "b": "免费订阅节点",
+      "entity": "MIMEMI",
+      "brand": "MIMEMI",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c79c6fe5df2a314f704d73a525195848e009f3b038d4c28594e2909b98e60c69",
+      "content": {
+        "primary_entity": "MIMEMI",
+        "keyword1": "MIMEMI",
+        "keyword2": "免费订阅节点",
+        "content": {
+          "AI_DESCRIPTION": "，MIMEMI 面向需要稳定跨境网络的用户提供加速订阅，套餐按流量、设备数和线路类型区分。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并配备 IPLC 专线与流媒体解锁；团队版每月 1000GB、支持 20 台设备，适合小团队协作。先在手机或电脑安装对应客户端，再从套餐页选好周期，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "选择适合你的加速套餐",
+          "AI_HERO_INTRO": "MIMEMI 是面向跨境访问场景的加速订阅服务，提供多种流量与设备数组合，方便按个人或团队需求挑选。套餐区分普通线路与 IPLC 专线，并根据月付或年付给出不同价格。",
+          "AI_VISUAL_TITLE": "MIMEMI 加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付方案折算更划算",
+          "AI_FEATURES_TITLE": "按需选择加速套餐",
+          "AI_FEATURES_INTRO": "从单人使用到团队协作，MIMEMI 用不同套餐覆盖常见的设备与流量需求。",
+          "AI_FEATURE_TITLE_1": "流量阶梯清晰",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，可按上网频率选择。",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TEXT_2": "支持 3 台、5 台或 20 台设备同时在线，手机、电脑和平板可按需分配。",
+          "AI_FEATURE_TITLE_3": "周期与线路",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，旗舰与团队版提供 IPLC 专线及更多高性能节点资源。",
+          "AI_CLIENTS_TITLE": "选择对应客户端",
+          "AI_CLIENTS_INTRO": "手机、电脑或路由器上安装适配的客户端，导入订阅即可连接。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线，团队版面向多设备协作。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "按照选择服务、确认设备、配置订阅的顺序，即可完成 MIMEMI 的接入。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，从基础版、旗舰版或团队版中挑选合适的套餐与付费周期。",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TEXT_2": "查看所用系统对应的客户端列表，确认手机、电脑或路由器可以安装并支持订阅导入。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档指引导入订阅地址，完成节点选择与连接测试后即可正常使用。",
+          "AI_CLOSING_TITLE": "开始加速访问",
+          "AI_CLOSING_TEXT": "选好套餐与设备客户端，按文档导入订阅，即可体验 MIMEMI 跨境加速。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "按设备数量、每月流量和周期选。单人日常用基础版；游戏或 5 台设备用旗舰版；多人团队用团队版。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。可先按常用设备数选套餐，后续升级灵活。",
+          "AI_FAQ_ANSWER_3": "选择套餐后按对应客户端文档导入订阅链接即可。不同系统操作略有不同，请以客户端说明为准。",
+          "AI_FAQ_ANSWER_4": "年付通常比月付省两个月费用。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化和 7x24 优先工单支持，团队版另含 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_QUESTION_1": "怎么根据需求选套餐版本？",
+          "AI_FAQ_QUESTION_2": "每个版本支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "旗舰版比基础版多了什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "dff11d9637a052fd25a2da0ca6a89e9a0353fbda1ffe2d0d45efa014e1e57de2",
+    "sitemap.xml": "d98fe8691c80634c466e5cc074b4c17c975a6978bdbc39bbff8c33326f71f11c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "6bf6e8917f11b29d3a501185516f9a2eb45bd39d6048eb61c66c5a0b22209b3c"
+}
